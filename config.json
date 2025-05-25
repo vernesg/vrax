@@ -1,1 +1,7 @@
-{}
+{
+    "botOwnerName": "",
+    "adminID": "",
+    "botOwner": "https://www.facebook.com/vern.23x",
+    "prefix": "@",
+    "port": 10000
+}
