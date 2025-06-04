@@ -148,5 +148,5 @@ app.get("/", (req, res) => {
 // Start the Express server
 app.listen(port, () => {
     console.log(`Server is running on http://localhost:${port}`
-);
+ );
 });
